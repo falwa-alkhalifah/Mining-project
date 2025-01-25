@@ -31,16 +31,16 @@ Types of Attributes:
 13) Class: Nominal (Binary)
 ------------------------------------------------------------------------------
 Columns Description:
-Id: Unique identifier for each data entry./n
-Gender: Male Or Female./n
-LDL: LDL (Low-Density Lipoprotein) shows the level of "bad cholesterol" in the blood. It is measured in mg/dL and helps check the risk of heart problems in people with diabetes./n
-Urea: Urea shows the level of waste in the blood from breaking down protein. It is measured in mg/dL and checks kidney health in diabetes./n
-CR: Creatinine ratio in a diabetic dataset checks kidney health by measuring waste levels in the blood. It helps detect early signs of kidney damage common in diabetes./n
-HbA1c: measures the average blood sugar level over the past 2-3 months and is used to monitor long-term diabetes control./n
-TG: (Triglycerides) measures blood fat levels and helps assess heart disease risk in diabetics./n
-BMI: Body mass index (weight in kg / height in m^2)./n
-HDL: (High-Density Lipoprotein) is "good cholesterol" that helps protect against heart disease./n
-VLDL: (Very Low-Density Lipoprotein) is a type of bad cholesterol that can increase heart disease risk by raising fat levels in the blood./n
-Chol: (Total Cholesterol) measures the overall level of cholesterol in the blood, including both good and bad types, and helps assess heart disease risk./n
-Age: Age in years./n
-Class: the patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic./n
+Id: Unique identifier for each data entry.
+Gender: Male Or Female.
+LDL: LDL (Low-Density Lipoprotein) shows the level of "bad cholesterol" in the blood. It is measured in mg/dL and helps check the risk of heart problems in people with diabetes.
+Urea: Urea shows the level of waste in the blood from breaking down protein. It is measured in mg/dL and checks kidney health in diabetes.
+CR: Creatinine ratio in a diabetic dataset checks kidney health by measuring waste levels in the blood. It helps detect early signs of kidney damage common in diabetes.
+HbA1c: measures the average blood sugar level over the past 2-3 months and is used to monitor long-term diabetes control.
+TG: (Triglycerides) measures blood fat levels and helps assess heart disease risk in diabetics.
+BMI: Body mass index (weight in kg / height in m^2).
+HDL: (High-Density Lipoprotein) is "good cholesterol" that helps protect against heart disease.
+VLDL: (Very Low-Density Lipoprotein) is a type of bad cholesterol that can increase heart disease risk by raising fat levels in the blood.
+Chol: (Total Cholesterol) measures the overall level of cholesterol in the blood, including both good and bad types, and helps assess heart disease risk.
+Age: Age in years.
+Class: the patient's diabetes disease class may be Diabetic, Non-Diabetic, or Predict-Diabetic.
