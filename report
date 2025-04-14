@@ -1,1 +1,35 @@
+ 1. Problem
+Diabetes is a serious health issue that affects millions of people around the world.
+In this project, we aim to analyze a medical dataset collected from institutions in Iraq that includes measurements
+such as cholesterol levels, BMI, blood sugar (HbA1c), and other health indicators.
 
+The goal is to use data mining techniques to better understand the patterns and factors that influence diabetes.
+Specifically, we want to classify patients into three categories:
+.Diabetic
+.Non-Diabetic
+.Predict-Diabetic (likely to develop diabetes)
+
+This analysis can help identify early warning signs, support doctors in diagnosing patients more accurately,
+and suggest lifestyle or medical changes to prevent complications.
+
+ 2. Data Mining Task
+The dataset includes 1,000 records and 14 attributes such as age, gender, BMI, cholesterol types, and kidney function indicators.
+The class label indicates whether the patient is diabetic, non-diabetic, or likely to become diabetic.
+
+We are applying two main data mining techniques:
+1-Classification:
+To build a predictive model that classifies new patients based on their health metrics into the
+correct diabetes category (Diabetic / Non-Diabetic / Predict-Diabetic).
+
+2-Clustering:
+To group patients with similar health profiles together and discover hidden patterns in the data without
+using the class label. This can reveal subgroups within the population that share common traits or risk levels.
+
+By combining both methods, we hope to uncover valuable insights into how different health indicators relate to diabetes risk.
+
+ 3. Data
+ 4. Data Preprocessing
+ 5. Data Mining Technique
+ 6. Evaluation and Comparison
+ 7. Findings
+ 8. References
